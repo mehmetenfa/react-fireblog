@@ -1,9 +1,9 @@
-
+import AppRouter from "./Router/AppRouter";
 
 function App() {
   return (
-    <div className="App">
-      dghjdg
+    <div>
+      <AppRouter />
     </div>
   );
 }
